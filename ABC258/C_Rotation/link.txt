@@ -1,0 +1,6 @@
+https://atcoder.jp/contests/abc258/tasks/abc258_c
+
+Brown
+
+最初の支度でできなければ（時間超過）
+ちょっといじってからやってみる必要がある。
