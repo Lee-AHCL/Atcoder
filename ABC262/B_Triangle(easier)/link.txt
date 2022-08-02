@@ -1,0 +1,9 @@
+https://atcoder.jp/contests/abc262/tasks/abc262_b
+
+
+
+Grey...
+
+
+時間が問題になって、そうなると発想を覆す必要があることに注意。
+元の考えに拘ると解決にならない。
