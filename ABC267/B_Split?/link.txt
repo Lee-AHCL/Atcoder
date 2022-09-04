@@ -1,0 +1,6 @@
+https://atcoder.jp/contests/abc267/tasks/abc267_b
+
+
+Gray
+
+Got RE related to indent problems. Dunno why it happened.
